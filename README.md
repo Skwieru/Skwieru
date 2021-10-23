@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skwieru...
-	My name is Marcin. I'm from Poland and I'm novice programmer. I've started my programing adventure with JAVA course on UDEMY half year ago.
+	My name is Marcin. I'm 24 years old and I'm from Poland and I'm novice programmer. I've started my programing adventure with JAVA course on UDEMY half year ago.
 	I wanted to try myself in backend and frontend to see which one is better for me. JAVA was fun but I've found myself much better in JavaScript.
 	I am really creative person so making animations, website designs and using my brain for creating all of these things just makes me feel happy.
 	For this moment it's just my hobby. I wanna make it my full-time job in the future, becouse working in something I enjoy is my life goal.
