@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning ...
 	- JAVA SCRIPT
 	- REACT.JS
-	- CSS.GRID
 - 	
 - 💞️ I’m looking to collaborate on ...
 	- frontend projects
