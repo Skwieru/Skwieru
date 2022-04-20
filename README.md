@@ -5,7 +5,7 @@
 	For this moment it's just my hobby. I wanna make it my full-time job in the future, because working in something I enjoy is my life goal.
 	For now I've learned:
 	- HTML / HTML 5
-	- CSS / CSS 5
+	- CSS / CSS 3
 	- JQUERY
 	- JAVA SCRIPT
 	For this moment i'm working with React. 
