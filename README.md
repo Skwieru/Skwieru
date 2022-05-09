@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skwieru...
-	My name is Marcin, I'm a novice programmer. I'm 24 years old and I'm from Poland. I've started my programming adventure with JAVA course on UDEMY over a year
+	My name is Marcin, I'm a self-taught programmer. I'm 24 years old and I'm from Poland. I've started my programming adventure with JAVA course on UDEMY over a year
 	ago.
 	I wanted to try myself in backend and frontend to see which one suits me better. Java was fun ,but I've found myself much better in JavaScript.
 	I'm really creative person so making animations, website designs and using my brain for creating all of these things just makes me feel happy.
@@ -19,16 +19,11 @@
 	- REACT.JS
 - 	
 - 💞️ I’m looking to collaborate on ...
+	- job opportunities with using of JavaScript, HTML, CSS and React
 	- frontend projects
-	- learning
-	- practice my knowledge in every possible way
-	- junior Front-End Developer job
+	- cooperative learning
+	- opportunities to practice my knowledge
 	
 - 📫 How to reach me ...
 
 	contact email: mskwieru@gmail.com
-
-<!---
-Skwieru/Skwieru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
