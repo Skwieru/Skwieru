@@ -28,4 +28,7 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 <p>
 <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=blue" />
+<img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-03fc39?style=for-the-badge&logo=Node.js&logoColor=white" />
+
 </p>
