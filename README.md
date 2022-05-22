@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 About me:
 
-I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development.
+I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development. Currently in my job I am moderating content on the "IQOS" devices website, but I am looking for a job that will give me more challenges and opportunities to write code and practice my skills.
 
 # :telephone_receiver: How to contact me?
 
