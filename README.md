@@ -27,9 +27,13 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 ### Additional:
 <p>
 <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=blue" />
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-08cf33?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/-windows-0889cf?style=for-the-badge&logo=windows&logoColor=white" />
-
 </p>
+
+### Next to learn:
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
