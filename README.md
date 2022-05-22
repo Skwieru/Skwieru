@@ -30,6 +30,6 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=blue" />
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-08cf33?style=for-the-badge&logo=Node.js&logoColor=white" />
-<img alt="Windows" src="https://img.shields.io/badge/-windows-0889cf?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="Windows" src="https://img.shields.io/badge/-windows-0889cf?style=for-the-badge&logo=windows&logoColor=white" />
 
 </p>
