@@ -1,3 +1,10 @@
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Skwieru&style=for-the-badge&color=green"/>
+  <a href="mailto:mskwieru@gmail.com?subject=[GitHub]%20🔥%20Message%20title&body=Hello%2C%0AYour%20message%20here..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/marcin-skwierczy%C5%84ski-318328213/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.facebook.com/skwieru/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
 # 💻 My stack:
 
 ### My core:
