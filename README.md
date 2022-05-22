@@ -1,10 +1,15 @@
+### Hello there :wave: my name is Marcin.
+<br />
+# 👨🏽‍💻 About me:
+I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development.
+
 # :telephone_receiver: How to contact me?
 
-<p>
+<div>
   <a href="mailto:mskwieru@gmail.com?subject=[GitHub]%20🔥%20Message%20title&body=Hello%2C%0AYour%20message%20here..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/marcin-skwierczy%C5%84ski-318328213/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.facebook.com/skwieru/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+</div>
 
 # :computer: My stack:
 
@@ -16,7 +21,6 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=facebook&logoColor=white" />
 </p>
 
 ### Additional:
