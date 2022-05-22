@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=skwieru&style=for-the-badge&color=red"/>
+
 
 ### Hello there :wave: my name is Marcin.
 
@@ -40,5 +40,5 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
 
-# Profile info:
+# Profile info: <img src="https://komarev.com/ghpvc/?username=skwieru&style=for-the-badge&color=red"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skwieru)](https://github.com/anuraghazra/github-readme-stats)
