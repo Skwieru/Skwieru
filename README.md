@@ -1,3 +1,5 @@
+# :telephone_receiver: How to contact me?
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Skwieru&style=for-the-badge&color=green"/>
   <a href="mailto:mskwieru@gmail.com?subject=[GitHub]%20🔥%20Message%20title&body=Hello%2C%0AYour%20message%20here..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
