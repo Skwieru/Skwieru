@@ -1,6 +1,7 @@
 ### Hello there :wave: my name is Marcin.
-<br />
+
 # 👨🏽‍💻 About me:
+
 I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development.
 
 # :telephone_receiver: How to contact me?
