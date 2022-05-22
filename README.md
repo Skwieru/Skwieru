@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=skwieru&style=for-the-badge&color=red"/>
 ### Hello there :wave: my name is Marcin.
 
 # 👨🏽‍💻 About me:
