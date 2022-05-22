@@ -26,4 +26,4 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 
 ### Additional:
 <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=photoshop&logoColor=blue" />
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-323330?style=for-the-badge&logo=ps&logoColor=blue" />
