@@ -1,6 +1,8 @@
 
 
-### Hello there :wave: my name is Marcin.
+# Hello there :wave: my name is Marcin.
+
+### Front-end / Web Development
 
 # 👨🏽‍💻 About me:
 
