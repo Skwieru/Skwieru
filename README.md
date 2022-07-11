@@ -6,7 +6,7 @@
 
 # 👨🏽‍💻 About me:
 
-I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development. I could create a content with code, but also with CMS. I would like to become a "CMS Specialist" or "Junior Web Developer" both of this directions are giving me fun and I want to develop one of this directions as a professional.
+I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development.
 
 # :telephone_receiver: How to contact me?
 
