@@ -6,7 +6,7 @@
 
 # 👨🏽‍💻 About me:
 
-I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development. Currently in my job I am moderating content on the "IQOS" devices website, but I am looking for a job that will give me more challenges and opportunities to write code and practice my skills.
+I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took in programming is Front-End/Web development. I could create a content with code, but also with CMS. I would like to become a "CMS Specialist" or "Junior Web Developer" both of this directions are giving me fun and I want to develop one of this directions as a professional.
 
 # :telephone_receiver: How to contact me?
 
