@@ -21,7 +21,7 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 ### Core:
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
-<img alt="AEM" src="https://img.shields.io/badge/Adobe-c91b0e?style=for-the-badge&logo=Adobe&logoColor=white" />
+<img alt="AEM" src="https://img.shields.io/badge/AEM-c91b0e?style=for-the-badge&logo=Adobe&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
