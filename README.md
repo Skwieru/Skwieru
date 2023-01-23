@@ -2,11 +2,11 @@
 
 # Hello there :wave: my name is Marcin.
 
-### Front-end / Web Development
+### Web Development / Data Analyst
 
 # 👨🏽‍💻 About me:
 
-I am from Poland and I am a self-taught programmer. I have learned programming from online courses and individual classes with a mentor. Direction, which I took to develop is Front-End/Web development.
+I am from Poland and I am 25 years old. I have learned programming from online courses and individual classes with a mentor. I know how to create basic apps/websites with CMS like AEM/WordPress and HTML, CSS, JavaScript and React. Currently I am developing my knowledge in the direction of data analytics (SQL & advanced MS Excel)
 
 # :telephone_receiver: How to contact me?
 
@@ -20,6 +20,7 @@ I am from Poland and I am a self-taught programmer. I have learned programming f
 
 ### Core:
 <p>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=#F7DF1E" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 <img alt="AEM" src="https://img.shields.io/badge/AEM-c91b0e?style=for-the-badge&logo=Adobe&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
