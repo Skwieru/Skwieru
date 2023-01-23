@@ -20,6 +20,7 @@ I am from Poland and I am 25 years old. I have learned programming from online c
 
 ### Core:
 <p>
+<img alt="MS-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-e6e600?style=for-the-badge&logo=microsoft-sql-server&logoColor=black" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 <img alt="AEM" src="https://img.shields.io/badge/AEM-c91b0e?style=for-the-badge&logo=Adobe&logoColor=white" />
@@ -41,8 +42,8 @@ I am from Poland and I am 25 years old. I have learned programming from online c
 </p>
 
 ### Next to learn:
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 # Profile info: <img src="https://komarev.com/ghpvc/?username=skwieru&style=for-the-badge&color=9dcf08"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skwieru)](https://github.com/anuraghazra/github-readme-stats)
