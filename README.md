@@ -6,7 +6,7 @@
 
 # 👨🏽‍💻 About me:
 
-I am from Poland and I am 25 years old. I have learned programming from online courses and individual classes with a mentor. I know how to create basic apps/websites with CMS like AEM/WordPress and HTML, CSS, JavaScript and React. Currently I am developing my knowledge in the direction of data analytics (SQL, Python & advanced MS Excel)
+I am from Poland and I am 27 years old. I have learned programming from online courses and individual classes with a mentor. I work as a Web Content Editor. I can create and manage content on websites in CMS's (AEM, WordPress, Sitecore, Magnolia) and HTML, CSS, JavaScript and React.
 
 # :telephone_receiver: How to contact me?
 
